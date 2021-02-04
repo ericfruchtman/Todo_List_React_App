@@ -1,3 +1,9 @@
+# Todo List App
+
+This is a simple todo list application made with React
+
+https://ericfruchtman.github.io/Todo_List_React_App/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
